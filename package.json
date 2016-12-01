@@ -5,7 +5,7 @@
   "main": "twitch.js",
   "scripts": {
     "build": "exobot-build",
-    "watch": "exobot-buil --watch"
+    "watch": "exobot-build --watch"
   },
   "repository": {
     "type": "git",
